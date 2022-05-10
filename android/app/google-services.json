@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209157166314",
+    "project_id": "kensington-7ad8c",
+    "storage_bucket": "kensington-7ad8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209157166314:android:bd0df5677dd71e0ed13393",
+        "android_client_info": {
+          "package_name": "com.developer.kensington"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209157166314-tjq6gmlvb68hv3ku11f9qacl35e8r7vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4SV6k2jb9pf82Iz9rV27IAwhYTFfNfMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209157166314-tjq6gmlvb68hv3ku11f9qacl35e8r7vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
